@@ -3,6 +3,7 @@ class Hash
     # code goes here
     array = []
     
+    self.each
     
   end
 end
