@@ -3,7 +3,8 @@ class Hash
     # code goes here
     array = []
     
-    self.each
+    self.each do |key, value|
+      
     
   end
 end
